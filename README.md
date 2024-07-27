@@ -4,6 +4,7 @@ task7: Create a web page that takes arabic text and converts it to speech.
 This is a simple web application that converts text to speech in Arabic. It utilizes the Web Speech API to perform text-to-speech conversion directly in the browser.
 
 ## Demo
+https://github.com/user-attachments/assets/966bb840-4a78-4650-acf4-dffc68f30e4d
 
 
 ## index.html file includes
