@@ -1,4 +1,4 @@
-# sm-webdev-task7-text2speech
+# sm-webdev-task6-text2speech
 task7: Create a web page that takes arabic text and converts it to speech.
 
 This is a simple web application that converts text to speech in Arabic. It utilizes the Web Speech API to perform text-to-speech conversion directly in the browser.
